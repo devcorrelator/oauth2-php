@@ -1,5 +1,5 @@
 {
-  "name" : "thomseddon/oauth2-php",
+  "name" : "devcorrelator/oauth2-php",
   "description" : "CakePHP OAuth2 Server Plugin",
   "authors" : [{
       "name" : "Quizlet",
@@ -18,7 +18,7 @@
     "oauth",
     "oauth2"
   ],
-  "homepage" : "https://github.com/thomseddon/oauth2-php",
+  "homepage" : "https://github.com/devcorrelator/oauth2-php",
   "license" : [
     "MIT"
   ],
@@ -28,8 +28,8 @@
   },
   "support" : {
     "forum" : "http://stackoverflow.com/tags/cakephp",
-    "source" : "https://github.com/thomseddon/oauth2-php",
-    "issues" : "https://github.com/thomseddon/oauth2-php/issues",
+    "source" : "https://github.com/devcorrelator/oauth2-php",
+    "issues" : "https://github.com/devcorrelator/oauth2-php/issues",
     "irc" : "irc://irc.freenode.org/cakephp"
   },
   "extra" : {
